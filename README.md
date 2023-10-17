@@ -2,7 +2,7 @@
 
 ## STATION
 
-#### Welcome to the Weather Analysis REST API project! This API is designed to provide insightful information on weather patterns, average seasonal temperatures, and more using NOAA's datasets.
+#### Welcome to the Weather Analysis REST API project! 
 
 ### Data Sources
 

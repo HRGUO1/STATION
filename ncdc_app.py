@@ -9,8 +9,7 @@ buk = "monthly-summary"
 
 app = Flask(__name__)
 print("Setting up S3 client.")
-app = Flask(__name__)
-print("Setting up S3 client.")
+
 # Assuming aws_id and aws_key are defined or imported from somewhere
 s3 = boto3.client('s3', aws_access_key_id=aws_id, aws_secret_access_key=aws_key)
 

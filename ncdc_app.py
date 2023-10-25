@@ -3,10 +3,6 @@ import requests
 import boto3
 import hashlib
 
-aws_id = "AKIA6IMSXULXZG7KO5IU"
-aws_key = "Kv1eFQBT4HWx9YdZY3xZyW/irIRYgHSrBXmolNWP"
-buk = "monthly-summary"
-
 app = Flask(__name__)
 print("Setting up S3 client.")
 

@@ -9,10 +9,6 @@ import logging
 # Logging
 logging.basicConfig(level=logging.INFO)
 
-# Credential
-aws_id = "AKIA6IMSXULXZG7KO5IU"
-aws_key = "Kv1eFQBT4HWx9YdZY3xZyW/irIRYgHSrBXmolNWP"
-buk = "monthly-summary"
 
 # Initialize app
 app = Flask(__name__)
